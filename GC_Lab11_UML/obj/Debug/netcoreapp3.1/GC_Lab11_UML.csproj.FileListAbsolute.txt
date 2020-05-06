@@ -1,0 +1,12 @@
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/bin/Debug/netcoreapp3.1/GC_Lab11_UML.deps.json
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/bin/Debug/netcoreapp3.1/GC_Lab11_UML.runtimeconfig.json
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/bin/Debug/netcoreapp3.1/GC_Lab11_UML.runtimeconfig.dev.json
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/bin/Debug/netcoreapp3.1/GC_Lab11_UML.dll
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/bin/Debug/netcoreapp3.1/GC_Lab11_UML.pdb
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/obj/Debug/netcoreapp3.1/GC_Lab11_UML.csprojAssemblyReference.cache
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/obj/Debug/netcoreapp3.1/GC_Lab11_UML.csproj.CoreCompileInputs.cache
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/obj/Debug/netcoreapp3.1/GC_Lab11_UML.AssemblyInfoInputs.cache
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/obj/Debug/netcoreapp3.1/GC_Lab11_UML.AssemblyInfo.cs
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/obj/Debug/netcoreapp3.1/GC_Lab11_UML.dll
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/obj/Debug/netcoreapp3.1/GC_Lab11_UML.pdb
+/Users/tomasroderickcalvo/Projects/GC_Lab11_UML/GC_Lab11_UML/obj/Debug/netcoreapp3.1/GC_Lab11_UML.genruntimeconfig.cache
